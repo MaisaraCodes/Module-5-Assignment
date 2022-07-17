@@ -68,12 +68,12 @@ div {
     p .div1  .beef .Chicken .sushi {
       width: 100%;
     }
-    .div3 {
-        width: 49%;
+    div {
+        width: 366px;
+       
     }
-    .div2 {
-        width: 50%;
-    }
+    
+   
     .div1  {
         width: 100%;
     }
@@ -84,7 +84,6 @@ div {
         width: 50%;
     }
 }
-
 
 
 
