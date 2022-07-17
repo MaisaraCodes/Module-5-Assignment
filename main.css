@@ -16,6 +16,10 @@ div .Chicken .sushi .beef {
     resize: none;
     
 }
+p {
+    margin: 5px;
+    text-align: justify;
+}
 .Chicken {
     background-color: goldenrod;
     border: 1px solid black;
