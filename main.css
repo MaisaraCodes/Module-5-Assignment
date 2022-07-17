@@ -14,7 +14,6 @@ h3 {
 }
 div .Chicken .sushi .beef {
     resize: none;
-    
 }
 p {
     margin: 5px;
@@ -63,6 +62,7 @@ div {
     align-items: center;
 }
 
+
 @media only screen and  (min-width: 992px) {
     p .div1 .div2 .div3 {
         width: 100px;
@@ -85,7 +85,8 @@ div {
 }
 
 @media  only screen and (max-width: 767px) {
-     .div1 .div2 .div3 {
-        width: 50%;
+     div {
+        width: 100%;
     }
+
 }
