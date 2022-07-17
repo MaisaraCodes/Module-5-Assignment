@@ -5,6 +5,7 @@
 }
 body{ margin: 0px;
     font-family: Helvetica, Arial, sans-serif ;
+    width="fit-content"
 }
 h1 { 
     text-align: center;
