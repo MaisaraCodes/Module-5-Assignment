@@ -14,6 +14,7 @@ h3 {
 }
 div .Chicken .sushi .beef {
     resize: none;
+    
 }
 .Chicken {
     background-color: goldenrod;
@@ -34,7 +35,7 @@ div .Chicken .sushi .beef {
     margin-top: 0px;
     float: right;
     top: -21px;
-    left: 369px;
+    
     text-align: center;
 }
 .sushi {
@@ -52,11 +53,12 @@ div {
     background-color:gainsboro;
     border: 1px solid black;
     position: relative;
-    margin: 15px;
-    width: 420px;
+    margin: 40px;
+    width: 420px; 
     display: inline-block;
     align-items: center;
 }
+
 
 @media only screen and  (min-width: 992px) {
     p .div1 .div2 .div3 {
@@ -70,7 +72,7 @@ div {
     }
     div {
         width: 366px;
-       
+       margin: 15px;
     }
     
    
@@ -84,6 +86,4 @@ div {
         width: 50%;
     }
 }
-
-
 
